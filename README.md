@@ -1,5 +1,5 @@
 # UMAP_for_CyTOF
-The materials necessary to get a UMAP embedding with flow or mass cytometry data
+The materials necessary to get a UMAP embedding with flow or mass cytometry data.
 
 This repository is part of a larger project to determine the fidelity of the UMAP embeddings as relevant to CyTOF data.
 Given that UMAP is written in Python and a lot of CyTOF processing architecture is written in R, I provide both R and Python
@@ -34,4 +34,8 @@ Step 4: Import cells_umap_tsne.csv into Cytobank or FlowJo for visualization and
 I'll continually update this repo. I wanted to get this out as soon as I could because anyone doing high-dimensional single 
 cell analysis should play around with UMAP sooner rather than later. It may prove to be superior to t-SNE in particular 
 contexts. 
+
+Note that there are ways for R and Python to interface, but I ran into a problems particularly with UMAP running
+through R-Python packages (like reticulate). If others are experiencing this too (and therefore can't use this: 
+https://gist.github.com/schochastics/2f83532f04729321b06822fbaa98f3ab then my repository is for you. 
 
