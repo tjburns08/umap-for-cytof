@@ -1,5 +1,6 @@
 # UMAP for CyTOF
-The materials necessary to get a UMAP embedding with flow or mass cytometry data.
+UMAP is a new low dimensionality embedding tool developed by Leland McInnes (https://github.com/lmcinnes), which has 
+potential to be of great use for the single cell analysis community. Our field moves fast, and we need to evolve with it. 
 
 This repository is part of a larger project to determine the fidelity of the UMAP embeddings as relevant to CyTOF data.
 Given that UMAP is written in Python and a lot of CyTOF processing architecture is written in R, I provide both R and Python
