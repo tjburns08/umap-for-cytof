@@ -1,4 +1,4 @@
-# UMAP_for_CyTOF
+# UMAP for CyTOF
 The materials necessary to get a UMAP embedding with flow or mass cytometry data.
 
 This repository is part of a larger project to determine the fidelity of the UMAP embeddings as relevant to CyTOF data.
