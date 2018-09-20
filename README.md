@@ -37,5 +37,5 @@ contexts.
 
 Note that there are ways for R and Python to interface, but I ran into a problems particularly with UMAP running
 through R-Python packages (like reticulate). If others are experiencing this too (and therefore can't use this: 
-https://gist.github.com/schochastics/2f83532f04729321b06822fbaa98f3ab then my repository is for you. 
+https://gist.github.com/schochastics/2f83532f04729321b06822fbaa98f3ab) then my repository is for you. 
 
